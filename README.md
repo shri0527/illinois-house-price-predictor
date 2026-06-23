@@ -2,7 +2,7 @@
 
 A machine learning web app that estimates home values in Cook County, IL, trained on 300,000+ verified property sales from the Cook County Assessor's public dataset. Built with XGBoost and deployed as an interactive Streamlit app.
 
-![alt text](image.png)
+![Illinois House Price Predictor screenshot](screenshots/app-demo.png)
 
 ## The interesting part: debugging a model that looked fine but wasn't
 
